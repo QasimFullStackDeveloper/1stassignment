@@ -1,0 +1,44 @@
+*{
+    margin: 0px 3px 0px 3px;
+}
+
+#main-heading
+{
+    color: black;
+    text-align: center;
+    font-size: 300%;
+    background-color: #e67e22;
+}
+
+#our-menu
+{
+    color: #c0392b;
+    font-size: 250%;
+}
+
+.bg
+{
+    background-color: #f1c40f;
+    background-attachment: fixed;
+}
+
+.menu
+{
+    font-size: 150%;
+}
+
+#our-famous-dishes
+{
+    color: green;
+    font-size: 200%;
+}
+
+.five-images
+{
+    background-color: #f6e58d;
+}
+
+.bg-image-three-images
+{
+    background-image: url(images/14.jpeg);
+}
